@@ -1,0 +1,15 @@
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\bin\Debug\BMI BodyFat.exe.config
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\bin\Debug\BMI BodyFat.exe
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\bin\Debug\BMI BodyFat.pdb
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\bin\Debug\BMI BodyFat.xml
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI BodyFat.vbprojAssemblyReference.cache
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI_BodyFat.frmMain.resources
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI_BodyFat.Resources.resources
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI_BodyFat.SplashScreen1.resources
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI BodyFat.vbproj.GenerateResource.cache
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI BodyFat.vbproj.CoreCompileInputs.cache
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI BodyFat.exe
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI BodyFat.xml
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI BodyFat.pdb
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI_BodyFat.frmBMI.resources
+C:\Users\ty1sh\Documents\Visual Basics\BMI BodyFat\BMI BodyFat\obj\Debug\BMI_BodyFat.frmBFP.resources
